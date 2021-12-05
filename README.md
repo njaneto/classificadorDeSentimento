@@ -1,3 +1,8 @@
+    
+## Modelo
+
+* [NLP](trabalhoFinal_NLP.ipynb)
+
 ## Autores-Colaboradores
 
 * **Nilo Jose de Andrade Neto** - *Initial work* - [njaneto](https://github.com/njaneto)
